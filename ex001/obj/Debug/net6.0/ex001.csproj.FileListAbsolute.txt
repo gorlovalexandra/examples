@@ -1,0 +1,16 @@
+C:\Users\catia\Desktop\examples\ex001\bin\Debug\net6.0\ex001.exe
+C:\Users\catia\Desktop\examples\ex001\bin\Debug\net6.0\ex001.deps.json
+C:\Users\catia\Desktop\examples\ex001\bin\Debug\net6.0\ex001.runtimeconfig.json
+C:\Users\catia\Desktop\examples\ex001\bin\Debug\net6.0\ex001.dll
+C:\Users\catia\Desktop\examples\ex001\bin\Debug\net6.0\ref\ex001.dll
+C:\Users\catia\Desktop\examples\ex001\bin\Debug\net6.0\ex001.pdb
+C:\Users\catia\Desktop\examples\ex001\obj\Debug\net6.0\ex001.GlobalUsings.g.cs
+C:\Users\catia\Desktop\examples\ex001\obj\Debug\net6.0\ex001.csproj.AssemblyReference.cache
+C:\Users\catia\Desktop\examples\ex001\obj\Debug\net6.0\ex001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\catia\Desktop\examples\ex001\obj\Debug\net6.0\ex001.AssemblyInfoInputs.cache
+C:\Users\catia\Desktop\examples\ex001\obj\Debug\net6.0\ex001.AssemblyInfo.cs
+C:\Users\catia\Desktop\examples\ex001\obj\Debug\net6.0\ex001.csproj.CoreCompileInputs.cache
+C:\Users\catia\Desktop\examples\ex001\obj\Debug\net6.0\ex001.dll
+C:\Users\catia\Desktop\examples\ex001\obj\Debug\net6.0\ref\ex001.dll
+C:\Users\catia\Desktop\examples\ex001\obj\Debug\net6.0\ex001.pdb
+C:\Users\catia\Desktop\examples\ex001\obj\Debug\net6.0\ex001.genruntimeconfig.cache
